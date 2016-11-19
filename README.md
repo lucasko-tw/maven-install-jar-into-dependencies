@@ -7,7 +7,7 @@ Maven installs Jar file into dependencies and usit
 
 
 ### 
-![arch.png](https://github.com/lucasko-tw/maven-jar-dependencies-dependencies/blob/master/arch.png)
+![arch.png](https://github.com/lucasko-tw/maven-install-jar-into-dependencies/blob/master/arch.png)
 The goal is to install jar into dependencies and use it.
 
 
