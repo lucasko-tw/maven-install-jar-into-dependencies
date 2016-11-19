@@ -1,4 +1,4 @@
-Maven installs Jar file into dependencies and usit
+Maven installs Jar file into dependencies and use it
 ==================================
 
 [Maven in 5 Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
